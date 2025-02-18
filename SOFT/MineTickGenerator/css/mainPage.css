@@ -1,0 +1,52 @@
+
+/**
+ *
+ * ./mainPage.css
+ * - ???
+ *
+ */
+
+    /**/
+    
+    *
+   {
+        background-color: black;
+        font-family: Arial;
+        font-size: 120%;
+        color: white;
+    }
+    
+    head
+   {
+        /**/
+    }
+    
+    header
+   {
+        /**/
+    }
+    
+    footer
+   {
+        /**/
+    }
+    
+    input
+   {
+        border: 1px solid white;
+        border-radius: 8px;
+        color: white;
+    }
+    
+    button
+   {
+        background-color: transparent;
+        color: white;
+        border: 1px solid white;
+        border-radius: 8px;
+    }
+    
+    .container
+   {
+        padding: 20px;
+    }

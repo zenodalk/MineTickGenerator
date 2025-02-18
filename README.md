@@ -1,5 +1,5 @@
 
-# MineTickGenerator
+# MineSoftWebSite
 
 [DISCORD](URL)
 [RELEASE](URL)
